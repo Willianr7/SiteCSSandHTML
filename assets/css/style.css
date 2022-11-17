@@ -1,0 +1,132 @@
+.center{
+    text-align: justify;
+    font-style: inherit;
+}
+
+.container{
+    display: list-item;
+    flex-flow: direction;
+    justify-content: direction;
+    align-items: normal;
+    font-style: inherit;
+}
+
+
+#menu li{
+    display: inline;
+    padding: 22px;
+    background-color: rgb(21, 19, 19);
+    font-style: inherit;
+}
+
+#menu li a{
+    text-decoration-color: rgb(12, 15, 15);
+    color: rgb(253, 253, 253);
+    font-size: 23px;
+    font-style: inherit;
+}
+
+#menu li a:hover{
+    font-size: 30px;
+    color: rgb(249, 252, 254);
+    font-style: inherit;
+}
+
+.p-30{
+    padding: 11px;
+    font-style: inherit;
+}
+
+.br-50 {
+    border-radius: 8%;
+    font-style: inherit;
+}
+
+.wh-700 {
+    width: 1000px;
+    height: 360px;
+}
+
+.tm-social{
+    width: 30px;
+    height: 30px;
+}
+
+.mb-50 {
+    margin-bottom: 30px;
+    font-style: inherit;
+}
+
+.justify{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: gainsboro;
+    font-style: inherit;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 21px;
+    display:flexbox
+}
+
+h2{
+    color: gainsboro;
+    font-style: inherit;
+}
+
+.logo{
+    width: 100px;
+    height: 41px;
+}
+
+.logo2{
+    width: 64px;
+    height: 44px;
+}
+
+.logo3{
+    width: 64px;
+    height: 44px;
+}
+
+.logo4{
+    width: 44px;
+    height: 44px;
+
+}
+
+.activision{
+    width: 100px;
+    height: 30px;
+}
+
+.imgbo2{
+    border-radius: 8%;
+    font-style: inherit
+}
+
+.imgbo3{
+    width: 380px;
+    height: 150px;
+}
+
+.cordafonte{
+    color: whitesmoke;
+}
+
+.contactimg{
+    width: 280px;
+    height: 90px;
+}
+
+.contactimg2{
+    width: 250x;
+    height: 63px;
+}
